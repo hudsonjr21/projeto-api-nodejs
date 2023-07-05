@@ -1,0 +1,10 @@
+{
+  "name": "projeto-api-nodejs",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/hudsonjr21/projeto-api-nodejs.git",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
